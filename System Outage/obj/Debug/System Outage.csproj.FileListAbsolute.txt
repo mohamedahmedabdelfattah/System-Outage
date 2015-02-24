@@ -1,0 +1,16 @@
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\bin\Debug\System Outage.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\bin\Debug\System Outage.pdb
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\obj\Debug\SystemOutage.Form1.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\obj\Debug\SystemOutage.Properties.Resources.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\obj\Debug\System Outage.csproj.GenerateResource.Cache
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\obj\Debug\System Outage.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\obj\Debug\System Outage.pdb
+C:\Users\Mohamed\documents\visual studio 2013\Projects\System Outage\System Outage\obj\Debug\System Outage.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\System Outage\System Outage\bin\Debug\System Outage.exe
+E:\Programming\Projects\System Outage\System Outage\bin\Debug\System Outage.pdb
+E:\Programming\Projects\System Outage\System Outage\obj\Debug\SystemOutage.Form1.resources
+E:\Programming\Projects\System Outage\System Outage\obj\Debug\SystemOutage.Properties.Resources.resources
+E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.csproj.GenerateResource.Cache
+E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.exe
+E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.pdb
+E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.csprojResolveAssemblyReference.cache
