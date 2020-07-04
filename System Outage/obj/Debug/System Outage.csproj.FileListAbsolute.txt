@@ -14,3 +14,12 @@ E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.cspr
 E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.exe
 E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.pdb
 E:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\System Outage\System Outage\bin\Debug\System Outage.exe
+D:\Programming\Projects\System Outage\System Outage\bin\Debug\System Outage.pdb
+D:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.csprojAssemblyReference.cache
+D:\Programming\Projects\System Outage\System Outage\obj\Debug\SystemOutage.Form1.resources
+D:\Programming\Projects\System Outage\System Outage\obj\Debug\SystemOutage.Properties.Resources.resources
+D:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.csproj.GenerateResource.cache
+D:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.exe
+D:\Programming\Projects\System Outage\System Outage\obj\Debug\System Outage.pdb
